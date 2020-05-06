@@ -35,11 +35,11 @@ ___->React___
  
  
  # UI
- [mobile view]()
+ [mobile view](https://github.com/KailaashJeevan/thecurrencyconverter/blob/master/readmeSrc/Screenshot_2020-05-06%20The%20Currency%20Converter.png)
  
  
  =================================================================================
  
- [Desktop _ view]()
+ [Desktop _ view](https://github.com/KailaashJeevan/thecurrencyconverter/blob/master/readmeSrc/Screenshot_2020-05-06%20The%20Currency%20Converter.png)
  
  
