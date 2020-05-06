@@ -1,0 +1,35 @@
+.body{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.cur{
+  border-radius: 35px;
+  padding: 10px;
+  background-color:cornsilk;
+  font-size: large;
+  color: rgb(3, 66, 184);
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+  text-align: center;
+}
+
+.btn{
+  background-color: darkgreen;
+  color: #fff;
+  padding: 10px;
+  font-size: large;
+}
+
+.putDown{
+  background-color: black;
+  color: #fff;
+  bottom: 0px;
+  font-size: large;
+  padding: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
